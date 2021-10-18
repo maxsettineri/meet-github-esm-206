@@ -53,6 +53,12 @@ Here's where I want to have info on ringtails.
 ![Ringtail cat (courtesy of VA Zoo)](img/ringtail_cat.jpg)
 We'll also learn about `knitr::include_graphics()`
 
+##### Some fun facts: 
+- They can rotate their hind legs 180 degrees
+- They're not endgangered but they are very elusive
+- They are closely related to racoons
+- Like sheds
+
 ###
 
 ----------
